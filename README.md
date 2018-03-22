@@ -1,2 +1,3 @@
 # hello-world1
-My new repository
+My new repository.
+I am new to git.but it is wonderful
