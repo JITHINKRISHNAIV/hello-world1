@@ -5,4 +5,4 @@ I am new to git.but it is wonderful.
 newly creted file and modified1
 =======
 
->>>>>>> j modified
+rep2 modified
